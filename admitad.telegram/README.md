@@ -4,9 +4,10 @@ Apps Script для регулярной отчетности по Admitad в Tel
 
 ## Как поставить
 
-Поменять значения в _config.gs_ и залить с помощью [@google/clasp](https://github.com/google/clasp)
+Поменять значения в _config.js_ и залить с помощью [@google/clasp](https://github.com/google/clasp)
 
 ```bash
+npm i -g @google/clasp
 clasp create
 clasp push
 ```
