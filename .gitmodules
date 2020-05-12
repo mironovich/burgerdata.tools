@@ -1,0 +1,3 @@
+[submodule "csv-md5"]
+	path = csv-md5
+	url = https://github.com/mironovich/csv-md5.git
